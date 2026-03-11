@@ -1,4 +1,4 @@
-<script>
+
 console.log("Vamos con la accesibilidad");
 
 window.onload = function(){
@@ -203,4 +203,4 @@ window.onload = function(){
 
   aplicarTodo();
 }
-</script>
+
